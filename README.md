@@ -17,7 +17,9 @@ A dedicated professional with deep expertise in Data Science, Data Analysis, Mac
 I am skilled at transforming complex data into valuable business insights, helping organizations make data-driven decisions. Committed to utilizing cutting-edge AI technologies to create powerful business outcomes.
 
 Open to connecting with professionals and organizations looking to harness the power of data for innovation and success.
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZrenFqM3o5MGVnbDN4YXc3eXFpMmo4c3l0MWxwZWgzaTlmYnBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"  />
 
+###
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [moaldosuki@gmail.com](mailto:moaldosuki@gmail.com)
