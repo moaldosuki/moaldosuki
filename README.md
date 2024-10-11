@@ -4,7 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst | Machine Learning Engineer | AI Engineer
 -----------------------------------------------------------------------
 
-A dedicated professional with deep expertise in Data Science, Data Analysis, Machine Learning, and AI Engineering. I possess a strong analytical mindset and a passion for innovation, leveraging data to drive impactful results across industries. Core Competencies: • Python, SQL, Excel, Power BI • Advanced Mathematics (Probability, Calculus) • Data Visualization & Exploratory Data Analysis (EDA) • Building Machine Learning & Deep Learning Models • Proficient in Natural Language Processing (NLP) & Computer Vision I am skilled at transforming complex data into valuable business insights, helping organizations make data-driven decisions. Committed to utilizing cutting-edge AI technologies to create powerful business outcomes. Open to connecting with professionals and organizations looking to harness the power of data for innovation and success.
+A dedicated professional with deep expertise in Data Science, Data Analysis, Machine Learning, and AI Engineering. I possess a strong analytical mindset and a passion for innovation, leveraging data to drive impactful results across industries.
+
+## Core Competencies:
+
+- Python, SQL, Excel, Power BI
+- Advanced Mathematics (Probability, Calculus)
+- Data Visualization & Exploratory Data Analysis (EDA)
+- Building Machine Learning & Deep Learning Models
+- Proficient in Natural Language Processing (NLP) & Computer Vision
+
+I am skilled at transforming complex data into valuable business insights, helping organizations make data-driven decisions. Committed to utilizing cutting-edge AI technologies to create powerful business outcomes.
+
+Open to connecting with professionals and organizations looking to harness the power of data for innovation and success.
+
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [moaldosuki@gmail.com](mailto:moaldosuki@gmail.com)
