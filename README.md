@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Aldosuki
 =========================================================================================================================================
 
-Data Scientist | Data Analyst | Machine Learning Engineer | AI Engineer
+Data Scientist | Data Analyst 📊 | Machine Learning Engineer 🤖 | AI Engineer 🌟
 -----------------------------------------------------------------------
 
 A dedicated professional with deep expertise in Data Science, Data Analysis, Machine Learning, and AI Engineering. I possess a strong analytical mindset and a passion for innovation, leveraging data to drive impactful results across industries.
