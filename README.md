@@ -4,19 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analyst 📈 | Data Scientist 📊 | AI Engineer 🤖
 -----------------------------------------------------------------------
+## Passionate Data Analyst | Machine Learning & Data Science Enthusiast 🚀
 
-A passionate and results-driven data analyst with a strong foundation in Data Science, Machine Learning, and Data Analysis. Known for my analytical approach, I excel at translating complex datasets into meaningful insights that drive impactful business decisions. 🚀
+I am a data-driven professional with a strong foundation in **Data Science**, **Machine Learning**, and **Data Analysis**. I specialize in transforming complex datasets into actionable insights that drive business success. My goal is to leverage data and analytics to solve real-world challenges and unlock value across industries. 
 
-𝗖𝗼𝗿𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗲𝗻𝗰𝗶𝗲𝘀:
-• Python, SQL, Excel, Power BI
-• Data Visualization & Exploratory Data Analysis (EDA)
-• Statistical Analysis & Advanced Mathematics (Probability, Calculus)
-• Building and Optimizing Machine Learning Models
-• Knowledgeable in Natural Language Processing (NLP) & Computer Vision
+### Core Competencies:
+- **Python**, **SQL**, **Excel**, **Power BI**
+- **Data Visualization** & **Exploratory Data Analysis (EDA)**
+- **Statistical Analysis** & **Advanced Mathematics** (Probability, Calculus)
+- **Machine Learning Model Development** & Optimization
+- **Natural Language Processing (NLP)** & **Computer Vision**
 
-I am dedicated to leveraging data and cutting-edge analytics to create value across various industries. My mission is to unlock insights that empower organizations to innovate and succeed in today’s data-driven world. 🔍
-
-𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 with professionals and teams interested in harnessing data for growth, efficiency, and strategic advantage. Let’s unlock the potential of your data together. 💡
+I am committed to using cutting-edge tools and techniques to help businesses thrive in an increasingly data-centric world. Let's connect and unlock the full potential of your data! 🔍
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZrenFqM3o5MGVnbDN4YXc3eXFpMmo4c3l0MWxwZWgzaTlmYnBmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"  />
 
 ###
