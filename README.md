@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Analyst 📈 | Data Scientist 📊 | AI Engineer 🤖
 -----------------------------------------------------------------------
-## Passionate Data Analyst | Machine Learning & Data Science Enthusiast 🚀
 
 I am a data-driven professional with a strong foundation in **Data Science**, **Machine Learning**, and **Data Analysis**. I specialize in transforming complex datasets into actionable insights that drive business success. My goal is to leverage data and analytics to solve real-world challenges and unlock value across industries. 
 
