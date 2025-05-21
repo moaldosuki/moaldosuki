@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Aldosuki
 =========================================================================================================================================
-![My Banner](https://github.com/user-attachments/assets/a16d7334-0c14-45cc-a43f-1c85bc7119e4)
+![Image](https://github.com/user-attachments/assets/ef4f195a-1beb-44be-81e2-79f689fd81f5)
 
 Data Analyst 📈 | Data Scientist 📊 | AI Engineer 🤖
 -----------------------------------------------------------------------
