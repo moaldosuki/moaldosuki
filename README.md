@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohammad Aldosuki
 ==========================================================================================================================================
 
-Data Analyst | Data Scientist | AI Engineer
+Data Analyst | Business Intelligence Analyst | Data Engineer
 -------------------------------------------
 
 I am a passionate Data Analyst driven by turning raw numbers into clear, actionable insights that empower organizations to make smart, strategic decisions with confidence.
