@@ -11,7 +11,7 @@ With strong expertise in data collection, cleaning, and analysis, I leverage mod
 What truly sets me apart is my ability to uncover hidden patterns and emerging trends within complex datasets, then translate them into clear, impactful reports that directly support decision-makers. I am continuously committed to sharpening my skills and staying ahead of the latest advancements in data analytics, always focused on delivering practical, high-value, data-driven solutions.
 
 * 🌍  I'm based in Alexandria, Egypt
-* 🖥️  See my portfolio at [All Of Me](http://https://linktr.ee/moaldosuki)
+* 🖥️  See my portfolio at [All Of Me](https://linktr.ee/moaldosuki)
 * ✉️  You can contact me at [moaldosuki@gmail.com](mailto:moaldosuki@gmail.com)
 * 💬  Ask me about CS2 Player
 
